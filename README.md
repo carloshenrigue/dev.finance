@@ -1,5 +1,5 @@
 # dev.finance
-<img alt="GamePlay" height="80" title="Plant Manager" src="https://github.com/carloshenrigue/dev.finance/blob/main/Maratona%20Discovery/devfinance.png" />
+<img   src="https://github.com/carloshenrigue/dev.finance/blob/main/Maratona%20Discovery/devfinance.png" />
 <h1 align="center">
     <a>🔗 Dev.finance$</a>
 </h1>
