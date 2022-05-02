@@ -1,4 +1,5 @@
 # dev.finance
+<img alt="GamePlay" height="80" title="Plant Manager" src=".github/logo.png" />
 <h1 align="center">
     <a>🔗 Dev.finance$</a>
 </h1>
